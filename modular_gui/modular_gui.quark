@@ -1,0 +1,11 @@
+(
+  name: "modular_gui",
+  summary: "modular rack like GUI for patching and experimenting",
+  version: "0.1",
+  schelp: "modular_gui.schelp",
+  dependencies: [],
+  license: "GNU GPL v3.0",
+  copyright: "dudeofea",
+  ext_dependency: nil,
+  url: "https://github.com/dudeofea/modular_gui"
+)
